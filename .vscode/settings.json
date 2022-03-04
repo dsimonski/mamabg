@@ -1,0 +1,16 @@
+{
+    // "files.associations": {
+    //     "*.blade": "html",
+    //     "*.tpl": "html"
+    // },
+    "emmet.triggerExpansionOnTab": true, // enable tab to expanse emmet tags
+    "blade.format.enable": true,
+    "[blade]": {
+        "editor.defaultFormatter": "onecentlin.laravel-blade",
+        "editor.formatOnSave": true,
+        "files.insertFinalNewline": true,
+        "editor.detectIndentation": false,
+        "editor.tabSize": 4
+        // "files.trimTrailingWhitespace": true
+    }
+}
